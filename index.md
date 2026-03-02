@@ -2,7 +2,7 @@
 title: Renato Teixeira
 ---
 
-# Renato Teixeira (kagaho)
+# Renato Teixeira 
 **AI Infrastructure · AI Security · Platform Engineering**
 
 I build secure, high-performance AI frameworks and ecosystems: GPU inference stacks, Agentic workflows, RAG pipelines, profiling, and practical security controls around LLMs.
