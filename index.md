@@ -1,5 +1,5 @@
 ---
-title: Renato Teixeira (kagaho)
+title: Renato Teixeira
 ---
 
 # Renato Teixeira (kagaho)
